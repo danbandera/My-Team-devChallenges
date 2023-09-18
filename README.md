@@ -34,7 +34,7 @@
 
 ![screenshot](/MyTeam.png)
 
-Responsive Team page, where you can write an introduction for your team and then introduce every member and their roll.
+Responsive Team page, where you can write an introduction for your team and then introduce every member and their role.
 
 ### Built With
 
